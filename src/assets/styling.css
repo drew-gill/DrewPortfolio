@@ -1,11 +1,3 @@
-.masthead {
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
-    background-image: url('../assets/theSwamp.jpg')
-}
-
 .siteBackground {
     background-color: #488368;
 }
