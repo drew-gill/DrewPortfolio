@@ -1,5 +1,8 @@
 # drew-site
 
+In progress! Learning how to use Vue to create a website with multi-page architecture from scratch. 
+
+
 ## Project setup
 ```
 npm install
